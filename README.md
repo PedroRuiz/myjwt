@@ -30,7 +30,7 @@ The token const can receive two params,
 ~~~javascript
 const verified = jwt().verify(token)
 ~~~
-Its params:
+Its params are:
 1. Mandatory, token.
 2. Boolean, complete. Leave blank to false.
 3. Boolean, json. Leave in blank to true
