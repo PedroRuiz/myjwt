@@ -24,7 +24,7 @@ const token = jwt().sign({
 The token const can receive two params, 
 
 1. The secret key, leave blank to set as **process.env.JWTSECRET** variable
-2. The crypt algoritm, leave in blanc to keep **'HS512**
+2. The crypt algoritm, leave in blanK to keep **'HS512'**
 
 ## Verifying a token
 ~~~javascript
