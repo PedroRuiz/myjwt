@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "uuid-apikey": "^1.4.6"
   },
   "devDependencies": {
